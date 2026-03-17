@@ -13,8 +13,4 @@ Hi 👋 I’m Payal<br><br>🎓 B.Tech CSE student<br>💡 Passionate about lear
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Payal-24&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Payal-24&theme=tokyonight&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=Payal-24&theme=radical&no-frame=true&row=1&column=5)
