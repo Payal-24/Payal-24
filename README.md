@@ -15,5 +15,4 @@ Hi 👋 I’m Payal<br><br>🎓 B.Tech CSE student<br>💡 Passionate about lear
 ## 🏆 GitHub Trophies
 
 
-
-![](https://github-profile-trophy.vercel.app/?username=Payal-24&theme=tokyonight&row=1&column=5)
+![](https://github-profile-trophy.vercel.app/?username=Payal-24)
